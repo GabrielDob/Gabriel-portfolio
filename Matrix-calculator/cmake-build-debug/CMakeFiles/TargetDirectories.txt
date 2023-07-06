@@ -1,0 +1,3 @@
+C:/Users/w10/CLionProjects/Gabriel_Dobromilski_temat_7_v.1/cmake-build-debug/CMakeFiles/Gabriel_Dobromilski_temat_7_v_1.dir
+C:/Users/w10/CLionProjects/Gabriel_Dobromilski_temat_7_v.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/w10/CLionProjects/Gabriel_Dobromilski_temat_7_v.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
